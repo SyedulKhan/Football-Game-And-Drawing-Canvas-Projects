@@ -1,0 +1,51 @@
+﻿  5CCGD003W_CW2_15330190_Syedul_Khan.cpp
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(132): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(132): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(133): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(133): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(140): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(140): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(161): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(166): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(219): warning C4244: 'argument': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(349): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(374): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(376): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(386): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(388): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(390): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(392): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(398): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(400): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(402): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(404): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(410): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(412): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(414): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(416): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(422): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(424): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(426): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(428): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(434): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(436): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(481): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(482): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(483): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(484): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(513): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(563): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(563): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(565): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(569): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(678): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(679): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(680): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(681): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(682): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(683): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(804): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(805): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(838): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\syedu\documents\3d graphics programming tutorial solutions\tutorial\5ccgd003w_cw2_15330190_syedul_khan.cpp(849): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  3DExample1.vcxproj -> C:\Users\Syedu\Documents\3D Graphics Programming Tutorial Solutions\Tutorial\x64\Debug\3DExample1.exe
